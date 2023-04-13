@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1ab578d28570d7c458ef434d72be22b4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - faces: {instanceID: 0}
+  - SmileBody: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - agent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
