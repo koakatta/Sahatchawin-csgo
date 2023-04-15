@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.4465791, g: 0.4964133, b: 0.57481784, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -398,7 +398,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u0E40\u0E19\u0E37\u0E48\u0E2D\u0E07\u0E08\u0E32\u0E01\u0E44\u0E21\u0E48\u0E22\u0E2D\u0E21\u0E01\u0E14\u0E23\u0E31\u0E1A\u0E17\u0E23\u0E32\u0E1A"
+          m_StringArgument: Why rejected? ;w; okay, U got chances!
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 580322035}
@@ -574,7 +574,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E44\u0E21\u0E48\u0E17\u0E23\u0E32\u0E1A"
+  m_text: Negative
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
@@ -1061,7 +1061,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E23\u0E31\u0E1A\u0E17\u0E23\u0E32\u0E1A"
+  m_text: Affirmative
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
@@ -1195,7 +1195,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E40\u0E19\u0E37\u0E49\u0E2D\u0E40\u0E23\u0E37\u0E48\u0E2D\u0E07\u0E44\u0E21\u0E48\u0E21\u0E35\n\u0E41\u0E15\u0E48\u0E04\u0E38\u0E13\u0E15\u0E49\u0E2D\u0E07\u0E2D\u0E2D\u0E01\u0E44\u0E1B\u0E08\u0E32\u0E01\u0E17\u0E35\u0E48\u0E19\u0E35\u0E48\n\u0E43\u0E2B\u0E49\u0E44\u0E14\u0E49!!!"
+  m_text: No storyline for here, U just get to find the way out of here !
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
@@ -1222,7 +1222,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 101.45
+  m_fontSize: 111.35
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1

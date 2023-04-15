@@ -192,7 +192,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E2A\u0E32\u0E40\u0E2B\u0E15\u0E38\u0E01\u0E32\u0E23\u0E15\u0E32\u0E22"
+  m_text: Dead Cause
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
@@ -823,7 +823,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E04\u0E38\u0E13\u0E41\u0E15\u0E01\u0E1E\u0E48\u0E32\u0E22\n\u0E40\u0E1B\u0E47\u0E19\u0E23\u0E2D\u0E1A\u0E17\u0E35\u0E48"
+  m_text: 'Dead Count:'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
@@ -850,7 +850,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 152.2
+  m_fontSize: 302.1
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -957,7 +957,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E25\u0E38\u0E22\u0E15\u0E48\u0E2D"
+  m_text: Respawn
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}

@@ -3144,11 +3144,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b3f82685a68a034b91e9436a81cfe38, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!82 &672027077 stripped
-AudioSource:
-  m_CorrespondingSourceObject: {fileID: 2033970205595554377, guid: 85c5496e2662ff743acbe8e3e77a20c4, type: 3}
-  m_PrefabInstance: {fileID: 672027073}
-  m_PrefabAsset: {fileID: 0}
 --- !u!82 &672027078 stripped
 AudioSource:
   m_CorrespondingSourceObject: {fileID: 1060952872, guid: 85c5496e2662ff743acbe8e3e77a20c4, type: 3}
@@ -7107,7 +7102,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh282688
+  m_Name: pb_Mesh65544
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -9330,17 +9325,9 @@ MonoBehaviour:
   assetGuid: 
   m_Mesh: {fileID: 1301995509}
   m_IsSelectable: 1
-  m_SelectedFaces: 00000000
-  m_SelectedEdges:
-  - a: 0
-    b: 1
-  - a: 2
-    b: 0
-  - a: 1
-    b: 3
-  - a: 3
-    b: 2
-  m_SelectedVertices: 00000000010000000200000003000000
+  m_SelectedFaces: 
+  m_SelectedEdges: []
+  m_SelectedVertices: 
 --- !u!4 &1832437973
 Transform:
   m_ObjectHideFlags: 0
@@ -9382,7 +9369,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 672027077}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Pause
         m_Mode: 1
@@ -9415,9 +9402,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u0E42\u0E2D\u0E49\u0E22 \u0E15\u0E01\u0E1A\u0E31\u0E19\u0E44\u0E14
-            \u0E2B\u0E31\u0E27\u0E41\u0E15\u0E01\u0E15\u0E32\u0E22\u0E40\u0E25\u0E22
-            ;w;"
+          m_StringArgument: This is a grateful fall damage !
           m_BoolArgument: 1
         m_CallState: 2
 --- !u!1 &1988935683

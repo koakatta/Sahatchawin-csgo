@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.37311953, g: 0.38074014, b: 0.3587274, a: 1}
+  m_IndirectSpecularColor: {r: 0.37311956, g: 0.3807402, b: 0.35872734, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -215,8 +215,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u0E44\u0E21\u0E48\u0E01\u0E14\u0E44\u0E25\u0E04\u0E4C\u0E43\u0E2B\u0E49
-            \u0E15\u0E32\u0E22\u0E0B\u0E49\u0E30!!!"
+          m_StringArgument: Just do it now !?
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 1683743536}
@@ -477,7 +476,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E20\u0E32\u0E22\u0E2B\u0E25\u0E31\u0E07\n(\u0E41\u0E08\u0E49\u0E07\u0E40\u0E15\u0E37\u0E2D\u0E19\u0E44\u0E14\u0E49)"
+  m_text: Reminds later!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
@@ -504,7 +503,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 49.25
+  m_fontSize: 71.55
   m_fontSizeBase: 72
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -714,7 +713,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E1D\u0E32\u0E01\u0E01\u0E14\u0E44\u0E25\u0E04\u0E4C\u0E41\u0E1F\u0E19\u0E40\u0E1E\u0E08\u0E14\u0E49\u0E27\u0E22\u0E19\u0E30"
+  m_text: Redirecting to the Facebook fanpage and Like the page.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
@@ -741,7 +740,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 223.45
+  m_fontSize: 140.05
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1108,7 +1107,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E44\u0E1B\u0E17\u0E35\u0E48\u0E41\u0E1F\u0E19\u0E40\u0E1E\u0E08"
+  m_text: Let's see
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
@@ -1135,7 +1134,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 59.4
+  m_fontSize: 68.4
   m_fontSizeBase: 72
   m_fontWeight: 400
   m_enableAutoSizing: 1

@@ -129,7 +129,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh532578
+  m_Name: pb_Mesh40424
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -359,7 +359,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh531862
+  m_Name: pb_Mesh39908
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -565,7 +565,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2033970205595554376}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Pause
         m_Mode: 1
@@ -586,8 +586,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u0E42\u0E2D\u0E4A\u0E22 \u0E40\u0E25\u0E42\u0E01\u0E49\u0E17\u0E34\u0E48\u0E21\u0E40\u0E17\u0E49\u0E32
-            \u0E40\u0E08\u0E47\u0E1A\u0E15\u0E32\u0E22\u0E40\u0E25\u0E22"
+          m_StringArgument: Painful! stepped on the lego ;w;
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 2033970205595554378}
@@ -812,7 +811,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh531850
+  m_Name: pb_Mesh39888
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -1173,7 +1172,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh532488
+  m_Name: pb_Mesh40372
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -2738,7 +2737,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh531890
+  m_Name: pb_Mesh39942
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -3037,7 +3036,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2033970205595554376}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Pause
         m_Mode: 1
@@ -3058,8 +3057,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u0E42\u0E2D\u0E4A\u0E22 \u0E40\u0E25\u0E42\u0E01\u0E49\u0E17\u0E34\u0E48\u0E21\u0E40\u0E17\u0E49\u0E32
-            \u0E40\u0E08\u0E47\u0E1A\u0E15\u0E32\u0E22\u0E40\u0E25\u0E22"
+          m_StringArgument: Painful! stepped on the lego ;w;
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 2033970205595554378}
@@ -4772,7 +4770,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2033970205595554376}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Pause
         m_Mode: 1
@@ -4793,8 +4791,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u0E42\u0E2D\u0E4A\u0E22 \u0E40\u0E25\u0E42\u0E01\u0E49\u0E17\u0E34\u0E48\u0E21\u0E40\u0E17\u0E49\u0E32
-            \u0E40\u0E08\u0E47\u0E1A\u0E15\u0E32\u0E22\u0E40\u0E25\u0E22"
+          m_StringArgument: Painful! stepped on the lego ;w;
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 2033970205595554378}
@@ -5146,7 +5143,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh531992
+  m_Name: pb_Mesh40006
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -5352,7 +5349,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2033970205595554376}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Pause
         m_Mode: 1
@@ -5373,8 +5370,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u0E42\u0E2D\u0E4A\u0E22 \u0E40\u0E25\u0E42\u0E01\u0E49\u0E17\u0E34\u0E48\u0E21\u0E40\u0E17\u0E49\u0E32
-            \u0E40\u0E08\u0E47\u0E1A\u0E15\u0E32\u0E22\u0E40\u0E25\u0E22"
+          m_StringArgument: Painful! stepped on the lego ;w;
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 2033970205595554378}
@@ -5976,7 +5972,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E2D\u0E2D\u0E01\u0E08\u0E32\u0E01\u0E17\u0E35\u0E48\u0E19\u0E35\u0E48\n\u0E44\u0E21\u0E48\u0E43\u0E0A\u0E48\u0E01\u0E32\u0E23\u0E2B\u0E19\u0E35\u0E19\u0E30\n\u0E41\u0E04\u0E48\u0E1E\u0E32\u0E21\u0E32\u0E40\u0E25\u0E48\u0E19\u0E19\u0E30\u0E2E\u0E49\u0E30"
+  m_text: Just chilling find the way out!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
@@ -6003,7 +5999,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 3.4
+  m_fontSize: 3.7
   m_fontSizeBase: 20
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -6137,7 +6133,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2033970205595554376}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Pause
         m_Mode: 1
@@ -6158,8 +6154,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u0E42\u0E2D\u0E4A\u0E22 \u0E40\u0E25\u0E42\u0E01\u0E49\u0E17\u0E34\u0E48\u0E21\u0E40\u0E17\u0E49\u0E32
-            \u0E40\u0E08\u0E47\u0E1A\u0E15\u0E32\u0E22\u0E40\u0E25\u0E22"
+          m_StringArgument: Painful! stepped on the lego ;w;
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 2033970205595554378}
@@ -6434,7 +6429,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh532472
+  m_Name: pb_Mesh40360
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -6640,7 +6635,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2033970205595554376}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Pause
         m_Mode: 1
@@ -6661,8 +6656,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u0E42\u0E2D\u0E4A\u0E22 \u0E40\u0E25\u0E42\u0E01\u0E49\u0E17\u0E34\u0E48\u0E21\u0E40\u0E17\u0E49\u0E32
-            \u0E40\u0E08\u0E47\u0E1A\u0E15\u0E32\u0E22\u0E40\u0E25\u0E22"
+          m_StringArgument: Painful! stepped on the lego ;w;
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 2033970205595554378}
@@ -7057,18 +7051,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2033970205595554376}
-        m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
-        m_MethodName: Pause
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 0
-        m_CallState: 2
       - m_Target: {fileID: 1662053190}
         m_TargetAssemblyTypeName: DedManager, Assembly-CSharp
         m_MethodName: Ded
@@ -7078,8 +7060,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u0E42\u0E2D\u0E4A\u0E22 \u0E40\u0E25\u0E42\u0E01\u0E49\u0E17\u0E34\u0E48\u0E21\u0E40\u0E17\u0E49\u0E32
-            \u0E40\u0E08\u0E47\u0E1A\u0E15\u0E32\u0E22\u0E40\u0E25\u0E22"
+          m_StringArgument: Painful! stepped on the lego ;w;
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 2033970205595554378}
@@ -7504,7 +7485,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh532292
+  m_Name: pb_Mesh40212
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -7719,7 +7700,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E44\u0E07\n\u0E2B\u0E49\u0E2D\u0E07\u0E23\u0E01\n\u0E40\u0E25\u0E22\u0E19\u0E30"
+  m_text: 'Hi!
+
+    The room
+
+    is so messy!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
@@ -7992,7 +7977,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2033970205595554376}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Pause
         m_Mode: 1
@@ -8013,8 +7998,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u0E42\u0E2D\u0E4A\u0E22 \u0E40\u0E25\u0E42\u0E01\u0E49\u0E17\u0E34\u0E48\u0E21\u0E40\u0E17\u0E49\u0E32
-            \u0E40\u0E08\u0E47\u0E1A\u0E15\u0E32\u0E22\u0E40\u0E25\u0E22"
+          m_StringArgument: Painful! stepped on the lego ;w;
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 2033970205595554378}
@@ -8773,7 +8757,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2033970205595554376}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Pause
         m_Mode: 1
@@ -8794,8 +8778,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u0E42\u0E2D\u0E4A\u0E22 \u0E40\u0E25\u0E42\u0E01\u0E49\u0E17\u0E34\u0E48\u0E21\u0E40\u0E17\u0E49\u0E32
-            \u0E40\u0E08\u0E47\u0E1A\u0E15\u0E32\u0E22\u0E40\u0E25\u0E22"
+          m_StringArgument: Painful! stepped on the lego ;w;
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 2033970205595554378}
@@ -8950,7 +8933,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2033970205595554376}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Pause
         m_Mode: 1
@@ -8971,8 +8954,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u0E42\u0E2D\u0E4A\u0E22 \u0E40\u0E25\u0E42\u0E01\u0E49\u0E17\u0E34\u0E48\u0E21\u0E40\u0E17\u0E49\u0E32
-            \u0E40\u0E08\u0E47\u0E1A\u0E15\u0E32\u0E22\u0E40\u0E25\u0E22"
+          m_StringArgument: Painful! stepped on the lego ;w;
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 2033970205595554378}
@@ -9127,7 +9109,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 2033970205595554376}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: UnityEngine.AudioSource, UnityEngine
         m_MethodName: Pause
         m_Mode: 1
@@ -9148,8 +9130,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: "\u0E42\u0E2D\u0E4A\u0E22 \u0E40\u0E25\u0E42\u0E01\u0E49\u0E17\u0E34\u0E48\u0E21\u0E40\u0E17\u0E49\u0E32
-            \u0E40\u0E08\u0E47\u0E1A\u0E15\u0E32\u0E22\u0E40\u0E25\u0E22"
+          m_StringArgument: Painful! stepped on the lego ;w;
           m_BoolArgument: 0
         m_CallState: 2
       - m_Target: {fileID: 2033970205595554378}
@@ -10234,7 +10215,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh532328
+  m_Name: pb_Mesh40260
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -11155,11 +11136,6 @@ PrefabInstance:
     m_RemovedComponents:
     - {fileID: 2005959672, guid: 85c5496e2662ff743acbe8e3e77a20c4, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: 85c5496e2662ff743acbe8e3e77a20c4, type: 3}
---- !u!82 &2033970205595554376 stripped
-AudioSource:
-  m_CorrespondingSourceObject: {fileID: 2033970205595554377, guid: 85c5496e2662ff743acbe8e3e77a20c4, type: 3}
-  m_PrefabInstance: {fileID: 2033970205595554375}
-  m_PrefabAsset: {fileID: 0}
 --- !u!82 &2033970205595554377 stripped
 AudioSource:
   m_CorrespondingSourceObject: {fileID: 1060952872, guid: 85c5496e2662ff743acbe8e3e77a20c4, type: 3}

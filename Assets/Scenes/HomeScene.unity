@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.4465791, g: 0.4964133, b: 0.57481784, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1053,7 +1053,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E25\u0E49\u0E2D\u0E40\u0E25\u0E48\u0E19 \u0E55\u0E55\u0E55+ \u0E40\u0E14\u0E35\u0E4B\u0E22\u0E27\u0E1E\u0E32\u0E40\u0E02\u0E49\u0E32\u0E40\u0E01\u0E21\u0E40\u0E25\u0E22\u0E25\u0E30\u0E01\u0E31\u0E19"
+  m_text: 'Just Kidding XD
+
+    Let''s Play !!!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
@@ -1232,8 +1234,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E23\u0E39\u0E49\u0E14\u0E35\u0E19\u0E30\u0E2E\u0E49\u0E30 \u0E41\u0E15\u0E48\u0E44\u0E21\u0E48\u0E43\u0E0A\u0E48
-    XD"
+  m_text: 'Nice Try !
+
+    At least U knew what to do.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
@@ -1260,7 +1263,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 138.8
+  m_fontSize: 98.05
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -1851,7 +1854,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E1B\u0E34\u0E14\u0E40\u0E01\u0E21"
+  m_text: QUIT
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
@@ -3684,7 +3687,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E40\u0E23\u0E34\u0E48\u0E21\u0E40\u0E01\u0E21"
+  m_text: Play
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
@@ -3861,7 +3864,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 610, y: 110}
+  m_AnchoredPosition: {x: 411, y: 110}
   m_SizeDelta: {x: 765.728, y: 187.876}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1855659080
@@ -3884,7 +3887,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u0E2D\u0E4A\u0E32\u0E27 \u0E08\u0E30\u0E44\u0E1B\u0E41\u0E25\u0E49\u0E27\u0E2B\u0E23\u0E2D\n\u0E07\u0E31\u0E49\u0E19\u0E40\u0E08\u0E2D\u0E01\u0E31\u0E19\u0E43\u0E2B\u0E21\u0E48\u0E19\u0E30!!!"
+  m_text: U got to go? bye!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
   m_sharedMaterial: {fileID: 9045144261014506663, guid: 3c4ccae88aedc534ea41c27deb0d6481, type: 2}
@@ -3911,7 +3914,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 65.5
+  m_fontSize: 93.8
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
