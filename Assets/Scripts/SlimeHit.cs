@@ -3,16 +3,22 @@
  
  public class SlimeHit : MonoBehaviour 
  {
-    public Transform Slime1;
-    public Transform Slime2;
+    public GameObject Slime1;
+    public GameObject Slime2;
 
      void OnMouseDown()
      {
+         Slime1.SetActive(false);
+         Slime2.SetActive(false);
+
          Vector3 position = gameObject.transform.position;
         
          Destroy(gameObject);
 
-         Slime1.position = position;
-         Slime2.position = position;
+         Slime1.transform.position = position;
+         Slime2.transform.position = position;
+
+         Slime1.SetActive(true);
+         Slime2.SetActive(true);
      }
  }

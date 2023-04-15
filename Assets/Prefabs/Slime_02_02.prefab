@@ -192,6 +192,7 @@ GameObject:
   - component: {fileID: 4731747074756457775}
   - component: {fileID: 4731747074756457774}
   - component: {fileID: 4731747074756457776}
+  - component: {fileID: 6557023804213388092}
   m_Layer: 0
   m_Name: Slime_02_02
   m_TagString: Untagged
@@ -331,6 +332,20 @@ MonoBehaviour:
   waypoints:
   - {fileID: 0}
   damType: 0
+--- !u!114 &6557023804213388092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5578802379695261821}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fccc6dc233a4a946982d907652e1cf6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Slime1: {fileID: 0}
+  Slime2: {fileID: 0}
 --- !u!1 &6599098586567276773
 GameObject:
   m_ObjectHideFlags: 0
