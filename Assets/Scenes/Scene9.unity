@@ -467,7 +467,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 0, z: 0, w: 3.9578877e+32}
   m_UseBoundingSphereOverride: 0
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
@@ -3793,6 +3793,19 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 5036153968559297866, guid: 278158a87483c1f02949a188f0a704a5, type: 3}
   m_PrefabInstance: {fileID: 1175298851510813794}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &6173172085794050345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6173172085794050344}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ebc17a2bcb08a623b1b7336ebcdd991, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneName: Scene10
 --- !u!1 &6705402075750747778 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 1883670913762530442, guid: beb43ab3513f5e61b9e4abcca65be39d, type: 3}
