@@ -3020,11 +3020,11 @@ Transform:
   - {fileID: 18201835}
   - {fileID: 1291078028}
   - {fileID: 1414091255}
+  - {fileID: 1969341823}
   - {fileID: 1332035647}
   - {fileID: 1006702695}
   - {fileID: 483020407}
   - {fileID: 31816869}
-  - {fileID: 1969341823}
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -9727,7 +9727,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: fdb3f946e489b784eb20365f12b4502f, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 1
+  m_Volume: 0.29
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -12804,7 +12804,7 @@ Transform:
   - {fileID: 974213619}
   - {fileID: 477990766}
   m_Father: {fileID: 564321612}
-  m_RootOrder: 12
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1972575825
 GameObject:
