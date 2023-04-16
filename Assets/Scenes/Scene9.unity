@@ -1740,7 +1740,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 28
+  m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &928476821 stripped
 GameObject:
@@ -1980,7 +1980,7 @@ RectTransform:
   m_Children:
   - {fileID: 1289419233}
   m_Father: {fileID: 0}
-  m_RootOrder: 29
+  m_RootOrder: 28
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
@@ -3661,7 +3661,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4935782078821625930, guid: 8e75ca9fa730d08cfb548a4cafd2048e, type: 3}
       propertyPath: m_RootOrder
-      value: 30
+      value: 29
       objectReference: {fileID: 0}
     - target: {fileID: 4935782078821625930, guid: 8e75ca9fa730d08cfb548a4cafd2048e, type: 3}
       propertyPath: m_LocalPosition.x
