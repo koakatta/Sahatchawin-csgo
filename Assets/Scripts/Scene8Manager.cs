@@ -21,7 +21,7 @@ public class Scene8Manager : MonoBehaviour
         
     }
 
-    public void Exit() {
-        Application.Quit();
+    public void GoToScene9() {
+        SceneManager.LoadScene("Scene9");
     }
 }
