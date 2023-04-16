@@ -1962,7 +1962,8 @@ Transform:
   m_LocalRotation: {x: -0, y: 1, z: -0, w: 0}
   m_LocalPosition: {x: 6.3519998, y: 0.1, z: 18.05}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
+  m_Children:
+  - {fileID: 1954302215}
   m_Father: {fileID: 1521230075}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
@@ -5622,7 +5623,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh212526
+  m_Name: pb_Mesh245792
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -7158,7 +7159,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4935782078821625930, guid: 8e75ca9fa730d08cfb548a4cafd2048e, type: 3}
       propertyPath: m_RootOrder
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 4935782078821625930, guid: 8e75ca9fa730d08cfb548a4cafd2048e, type: 3}
       propertyPath: m_LocalPosition.x
@@ -8330,7 +8331,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!43 &1656870567
 Mesh:
@@ -9664,7 +9665,7 @@ GameObject:
   - component: {fileID: 1954302212}
   - component: {fileID: 1954302211}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Stair Path
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -9956,12 +9957,12 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1954302210}
-  m_LocalRotation: {x: 0.9557122, y: -0, z: -0, w: -0.29430303}
-  m_LocalPosition: {x: 6.4807973, y: 4.631, z: 13.524}
+  m_LocalRotation: {x: -0, y: 0.29430303, z: 0.9557122, w: 0}
+  m_LocalPosition: {x: -0.12879753, y: 4.531, z: 5.525999}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_Father: {fileID: 252299137}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 214.232, y: 0, z: 0}
 --- !u!43 &1972741746
 Mesh:
