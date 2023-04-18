@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0, g: 0, b: 0, a: 1}
+  m_IndirectSpecularColor: {r: 0.0853625, g: 0.18886703, b: 0.43178445, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -6601,7 +6601,7 @@ MonoBehaviour:
   playerInnerMagicOrb2: {fileID: 1034986547}
   orbGatherDistance: 4
   orbCount: 4
-  sceneName: Scene10
+  sceneName: Scene11
 --- !u!1 &1864028868
 GameObject:
   m_ObjectHideFlags: 0
