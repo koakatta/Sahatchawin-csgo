@@ -8,6 +8,7 @@ TagManager:
   - DoorExit
   - FallTrap
   - Key
+  - Selectable
   layers:
   - Default
   - TransparentFX
